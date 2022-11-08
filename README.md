@@ -409,7 +409,7 @@ var ParticlePool = (function() {
 
     // create the fill
 
-    context.fillStyle = '#0000FF';
+    context.fillStyle = '#FF0000';
 
     context.fill();
 
